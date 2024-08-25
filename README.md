@@ -56,4 +56,6 @@ The following components are required for the demo:
 
 [One SparkFun MEMS Microphone [5]](https://www.sparkfun.com/products/9868)
 
-## SetUp
+## Resources
+
+Please see this [mbed notebook post](https://os.mbed.com/users/rayxke/notebook/sparkfun-mems-microphone-breakout---inmp401-admp40/) written by me.
